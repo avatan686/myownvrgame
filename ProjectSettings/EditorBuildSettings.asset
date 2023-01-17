@@ -14,4 +14,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/the future.unity
     guid: 6df43fd24e4ff874caca63054e2e902f
-  m_configObjects: {}
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 98ae5bd95fbf6544c836e37f099fa677,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: df8d06de47d93f74ba8baa0083774097,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: a78088c818456c54c8f1b2f17c74c297,
+      type: 2}
